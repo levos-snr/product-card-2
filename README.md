@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d8b2a5a-58bc-446d-8827-93dc5c6f2265/deploy-status)](https://app.netlify.com/sites/focused-keller-afaa3d/deploys)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
